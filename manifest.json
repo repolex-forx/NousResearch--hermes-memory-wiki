@@ -1,0 +1,35 @@
+{
+  "manifest_version": "1.0",
+  "org": "NousResearch",
+  "repo": "hermes-memory-wiki",
+  "versions": [
+    {
+      "commit": "9bc3913b8474eaf4d7eec32e97af4d77957c36df",
+      "parsed_at": "2026-09-30T07:02:10.974044+00:00",
+      "tag": "main",
+      "filetree": "filetree/9bc3913b8474eaf4d7eec32e97af4d77957c36df.nq.gz",
+      "blobs": [
+        "blob/a98363fe7065bdd11d028e6f901fb975489d77e0.nq.gz",
+        "blob/7053c814e0cd7d8971662ba02dd57cd681957a9d.nq.gz",
+        "blob/68f34a2973acc190795fe84d7a3d364a59434f07.nq.gz",
+        "blob/6683278808bfa13ebd34062d29f687e973a534b7.nq.gz",
+        "blob/dc4fa4d1f00c3aec3266621bf87351cfb31d798f.nq.gz",
+        "blob/5700b997827973cb0eb6d84a2782bb08a5872434.nq.gz",
+        "blob/b134b760f5ff0278a004a7ed1b7734c3e511fa6c.nq.gz",
+        "blob/0b44a1723b63b4191fbcdc771249600281e4c058.nq.gz",
+        "blob/90efa475e85696a8bd4750ad59386bf4af5f3437.nq.gz",
+        "blob/7efea51d272a395303577f7c65c9aaa510df1000.nq.gz",
+        "blob/dd99f72ba4ad537a04a779faf78c08f8e62d52af.nq.gz",
+        "blob/a1b6390879441fba247a776b051e71278cacb271.nq.gz",
+        "blob/7dba3f3469714c6ebf95c5a1fcb765beda950d74.nq.gz",
+        "blob/634e16ac5fbac89dcd42832f18c204ab153c7941.nq.gz",
+        "blob/56c48442f8a9607b557385510658809be4aa1ade.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
