@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/NousResearch/hermes-memory-wiki/commit/9bc3913b8474eaf4d7eec32e97af4d77957c36df",
       "git:hexsha": "9bc3913b8474eaf4d7eec32e97af4d77957c36df",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "main"
     }
   ]
