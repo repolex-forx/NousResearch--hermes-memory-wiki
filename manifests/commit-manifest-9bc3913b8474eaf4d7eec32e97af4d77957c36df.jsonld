@@ -48,10 +48,24 @@
       "repolex:graphType": "ast",
       "repolex:graphFilePath": "aggregate/ast/9bc3913b8474eaf4d7eec32e97af4d77957c36df/chunk-001.nq.gz",
       "repolex:graphFileSize": 1555411
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "lsp",
+      "repolex:graphFilePath": "aggregate/lsp/9bc3913b8474eaf4d7eec32e97af4d77957c36df.nq.gz",
+      "repolex:graphFileSize": 106044
     }
   ],
-  "repolex:parseStatus": "ast_complete",
+  "repolex:parseStatus": "enrich_complete",
   "repolex:parsedAt": "2026-09-30T07:02:10.974044+00:00",
   "repolex:parserVersion": "0.1.10",
-  "git:tagName": "main"
+  "git:tagName": "main",
+  "repolex:dependencyRepo": [
+    {
+      "@id": "https://repolex.ai/r/evanw/esbuild",
+      "repolex:packageName": "esbuild",
+      "git:hexsha": "bb9db84c02433fbe37b3509f53f9f3e3cc48725e",
+      "git:tagName": "v0.28.1"
+    }
+  ]
 }
